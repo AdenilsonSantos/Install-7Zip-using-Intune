@@ -26,7 +26,7 @@ function Install-7Zip {
 Uninstall-7Zip-Msi
 
 # Desinstalar todas as versões do 7-Zip Exe
-Uninstall-7Zip-Msi
+Uninstall-7Zip-Exe
 
 # Instalar a versão mais recente do 7-Zip Exe
 Install-7Zip

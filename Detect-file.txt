@@ -1,0 +1,4 @@
+Crie uma regra customizada para detectar:
+File: C:\Program Files\7-Zip
+Arquivo: 7zFM.exe
+Versão igual a: 24.9.0.0

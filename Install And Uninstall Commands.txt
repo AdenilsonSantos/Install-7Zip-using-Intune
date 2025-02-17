@@ -1,0 +1,2 @@
+INSTALL COMMAND: %windir%\system32\windowspowershell\v1.0\powershell.exe -executionpolicy bypass -file "Install-file.ps1"
+UNINSTALL COMMAND: "%ProgramFiles%\7-Zip\Uninstall.exe" /S
